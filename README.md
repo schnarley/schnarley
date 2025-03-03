@@ -1,4 +1,4 @@
-# Hello there👋 - I'm Albin, a.k.a @Schnarley
+# Hello there👋 - I'm @Schnarley
 
 I'm a student currently studying **Electrical Engineering & Computer Science (EECS)**.  
 I mainly work with **Java, C, and Python**, but I also have experience with **assembly and HTML/CSS**.  
